@@ -1,5 +1,4 @@
 let arr = [10, 20, 5, 4, 1, 8, 9, 12, 11, 10, 18, 15];
-length = arr.length;
 
 function divide(arr) {
     if (arr.length <= 1)
